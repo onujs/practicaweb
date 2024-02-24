@@ -1,0 +1,11 @@
+Crear nuevo repositorio
+git init .
+
+Agregar archivos al repositorio
+git add .
+
+Hacer un commit con un mensaje
+git commit -m "Mensaje del commit"
+
+Subir los cambios a GitHub
+git push origin main
